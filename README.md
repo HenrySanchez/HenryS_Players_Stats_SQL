@@ -16,4 +16,4 @@ Basic Information Table:
 
   Percent Stats:
 
-![Percent Stats](Images/percent_stats.png)
+![percent_stats](https://user-images.githubusercontent.com/28024207/70582467-a1117700-1b88-11ea-820a-2bc690514f1e.png)
