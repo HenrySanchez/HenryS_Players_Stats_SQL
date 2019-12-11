@@ -11,8 +11,8 @@ In this activity, you will be using joins to query NBA player seasonal statistic
 3. Perform joins that will generate the following outputs:
 
 Basic Information Table:
+![basic_info](https://user-images.githubusercontent.com/28024207/70582425-7fb08b00-1b88-11ea-9305-af2f65770a34.png)
 
-![Basic Info](Images/basic_info.png)
 
   Percent Stats:
 
